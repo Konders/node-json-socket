@@ -6,10 +6,10 @@
   "version": "0.3.0",
   "repository": {
     "type": "git",
-    "url": "http://github.com/sebastianseilund/node-json-socket.git"
+    "url": "https://github.com/Konders/node-json-socket.git"
   },
   "bugs": {
-    "url": "http://github.com/sebastianseilund/node-json-socket/issues"
+    "url": "https://github.com/Konders/node-json-socket.git/issues"
   },
   "maintainers": [
     {
